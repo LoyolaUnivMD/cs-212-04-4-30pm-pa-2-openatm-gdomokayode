@@ -1,1 +1,22 @@
-
+//bankAccount.java 
+/**Write a classto define bankAccount
+ *instantiate an array to store the last five transactions a string with the account owner's name
+ * Implement an array check the last five transactions a string with the account owner's name
+ * make conditionals/ decision statements for userName, initialAmount and numberOfTransactions
+ * Implement a Constructor to initialize the account with the owner's name, initial deposit, and recentTransaction count 
+ * create an owner class to check who is the owner of an account 
+ * Inititalize a String variable output the user account information; 
+ * Create a method to calculateDeposit 
+ * Implement a withdraw method for user to input how much they would like to withdraw. 
+ * */
+ 
+ /**Main.java
+  * Implement an array to hold 5 different account from the user. 
+  * use a while loop for the following instructions 
+  * Prompt the user to input fullName;
+  * bring out the bank statement of the user based on fullName
+  * Get the user's account back.
+  * Display the account number of the user.
+  * Instantite the variables withdraw, deposit, CheckBalance, recentTrasaction or Exit
+  * if user chooses to deposit ad the deposit amount to their checkBalance.
+  * else Deduct the balanceWithdrawn by the user if the user chooses to withdraw. 
